@@ -192,16 +192,6 @@ table{border: 0px solid black;}
 
 
 
-<div class="md0"></div>
-
-## OOP
-#### Abstraction
-#### Encapsulation
-#### Class, Object
-#### Method, Constructor
-#### Attribute, Property , Setter  , Getter
-#### Inheritance , Super , multiple inheritance, Method resolution order
-#### Polymorphisms
 
 
 
