@@ -11,6 +11,24 @@
 
 
 
+<!--------------------------------------------------------------------------------- Class -->
+<br><br>
+
+## Class  
+
+
+
+<!--------------------------------------------------------------------------------- Inheritance -->
+<br><br>
+
+## Inheritance
+```
+Method resolution order 
+Super
+multiple inheritance
+``` 
+
+
 
 <!--------------------------------------------------------------------------------- Abstraction -->
 <br><br>
@@ -58,11 +76,7 @@ Special
 
 
 
-<!--------------------------------------------------------------------------------- Inheritance , Super , multiple inheritance, Method resolution order -->
-<br><br>
 
-## Inheritance , Super , multiple inheritance, Method resolution order  
-<!-------------------------- Book -->
 
 
 
