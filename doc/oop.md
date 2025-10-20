@@ -42,7 +42,9 @@
 ## Method
 ```
 Constructor
-General
+Regular
+Class
+Static
 Special
 ```
 
