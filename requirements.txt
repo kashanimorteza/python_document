@@ -1,0 +1,4 @@
+ipython-autotime
+jupyter
+jupyterlab
+notebook
