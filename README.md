@@ -8,13 +8,13 @@
 
 ## Resource  
 <!-------------------------- General -->
-#### General
+### General
 <a href="https://www.python.org/" target="_blank">Python</a> - 
 <a href="https://pypi.org/" target="_blank">pypi</a> - 
 <a href="https://jupyter.org/" target="_blank">jupyter</a> - 
 
 <!-------------------------- Learn -->
-#### Learn
+### Learn
 <a href="https://docs.python.org/3/" target="_blank">Python Doc</a> - 
 <a href="https://www.py4e.com/lessons" target="_blank">py4e</a> - 
 <a href="https://www.learnpython.org/" target="_blank">learnpython</a> - 
@@ -24,7 +24,7 @@
 <a href="https://toplearn.com/courses/2150/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-(-python-)" target="_blank">toplearn</a>
 
 <!-------------------------- Tools -->
-#### Tools
+### Tools
 <a href="https://jsonplaceholder.typicode.com/" target="_blank">jsonplaceholder</a>
 
 
@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ## Programming
 
 <!-------------------------- OOP -->
-#### [OOP]
+### [OOP]
 
 
 <!--------------------------------------------------------------------------------- Package -->
@@ -59,16 +59,13 @@ pip install -r requirements.txt
 ## Package
 
 <!-------------------------- Numpy -->
-#### Numpy  
-[Numpy]
+### Numpy  
 
 <!-------------------------- Pandas -->
-#### Pandas  
-[Pandas]
+### Pandas  
 
 <!-------------------------- Matplotlib -->
-#### Matplotlib  
-[Matplotlib]
+### Matplotlib  
 
 
 
@@ -78,12 +75,10 @@ pip install -r requirements.txt
 ## Extra
 
 <!-------------------------- ORM -->
-#### ORM  
-[ORM]
+### ORM  
 
 <!-------------------------- API -->
-#### API  
-[API]
+### API  
 
 
 
@@ -93,13 +88,13 @@ pip install -r requirements.txt
 ## Tools  
 
 <!-------------------------- Interpretation -->
-#### Interpretation
+### Interpretation
 ```
 python3 --version
 ```
 
 <!-------------------------- VsCode -->
-#### VsCode
+### VsCode
 ```
 python
 pylint
