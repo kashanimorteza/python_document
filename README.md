@@ -7,6 +7,10 @@
 <br><br>
 
 ## Resource  
+
+[حامد قاسمی۱](https://robotech-academy.com/product/python-ml/)  
+[حامد قاسمی۲](https://robotech-academy.com/product/deep-python/)  
+
 <!-------------------------- General -->
 ### General
 <a href="https://www.python.org/" target="_blank">Python</a> - 
