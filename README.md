@@ -7,10 +7,6 @@
 <br><br>
 
 ## Resource  
-
-[حامد قاسمی۱](https://robotech-academy.com/product/python-ml/)  
-[حامد قاسمی۲](https://robotech-academy.com/product/deep-python/)  
-
 <!-------------------------- General -->
 ### General
 <a href="https://www.python.org/" target="_blank">Python</a> - 
@@ -32,20 +28,19 @@
 <a href="https://jsonplaceholder.typicode.com/" target="_blank">jsonplaceholder</a>
 
 
+<!-------------------------- Course -->
+### Course
+[حامد قاسمی۱](https://robotech-academy.com/product/python-ml/)  
+[حامد قاسمی۲](https://robotech-academy.com/product/deep-python/)  
 
 
 
-
-<!--------------------------------------------------------------------------------- Setup -->
+<!--------------------------------------------------------------------------------- Install -->
 <br><br>
 
-## Setup
-```bash
-python3 -m venv .myenv3
-.myenv3/bin/python3 -m pip install --upgrade pip  
-source .myenv3/bin/activate
-pip install -r requirements.txt
-```
+## Install
+[Here](https://github.com/kashanimorteza/python_document/blob/main/install.md)
+
 
 
 <!--------------------------------------------------------------------------------- Programming -->
