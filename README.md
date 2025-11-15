@@ -39,7 +39,7 @@
 <br><br>
 
 ## Install
-[Here](https://github.com/kashanimorteza/python_document/blob/main/install.md)
+[Here](https://github.com/kashanimorteza/python_document/blob/main/doc/install.md)
 
 
 

@@ -9,7 +9,7 @@
 
 ## Linux
 <!-------------------------- General -->
-General
+### General
 ```bash
 sudo apt update -y
 sudo apt install software-properties-common -y
@@ -21,7 +21,7 @@ sudo apt install python3-venv -y
 ```
 
 <!-------------------------- Pyenv -->
-Pyenv
+### Pyenv
 ```bash
 sudo apt update
 sudo apt install -y make build-essential libssl-dev zlib1g-dev \
@@ -60,14 +60,14 @@ python --version
 
 ## Mac 
 <!-------------------------- General -->
-General
+### General
 ```bash
 brew install python
 python3 --version
 ```
 
 <!-------------------------- Pyenv -->
-Pyenv
+### Pyenv
 ```bash
 brew install pyenv
 ```
@@ -93,7 +93,7 @@ python --version
 ```
 
 <!-------------------------- Pyenv X86_64 -->
-Pyenv X86_64
+### Pyenv X86_64
 ```bash
 softwareupdate --install-rosetta --agree-to-license
 arch -x86_64 /bin/zsh
@@ -134,7 +134,7 @@ file /Users/morteza/.pyenv86/versions/3.7.17/bin/python
 
 ## Environment 
 <!-------------------------- model-1 -->
-model-1
+### model-1
 ```bash
 pyenv local 3.7
 python --version
@@ -145,7 +145,7 @@ pip install -r requirements.txt
 pip list
 ```
 <!-------------------------- model-2 -->
-model-2
+### model-2
 ```bash
 arch -x86_64 /usr/local/bin/python3.7 -m venv .myenv3.7
 .myenv3.7/bin/python -m pip install --upgrade pip
@@ -155,7 +155,7 @@ pip list
 python -c "import platform; print(platform.python_version(), platform.machine())"
 ```
 <!-------------------------- Check -->
-Check
+### Check
 ```bash
 python -c "import platform; print(platform.python_version(), platform.machine())"
 ```
