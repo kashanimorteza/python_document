@@ -128,6 +128,18 @@ ls /Users/morteza/.pyenv86/versions/3.7.17/bin/python
 file /Users/morteza/.pyenv86/versions/3.7.17/bin/python
 ```
 
+<!-------------------------- Official X86_64 -->
+### Official X86_64
+```bash
+Open your browser and go to the Python 3.7.17 release page.
+In the “Files” section, download the macOS 64-bit installer (.pkg) – that’s the Intel build.
+Run the .pkg installer (you’ll need admin rights).
+This installer creates:
+ls /usr/local/bin/python3.7
+ls /Library/Frameworks/Python.framework/Versions/3.7/Python
+```
+
+
 
 <!--------------------------------------------------------------------------------- Environment -->
 <br><br>
