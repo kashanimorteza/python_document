@@ -33,10 +33,10 @@ libffi-dev liblzma-dev git
 curl https://pyenv.run | bash
 ```
 ```bash
-echo 'export PYENV_ROOT="$HOME/.pyenv"' >> /root/.bashrc
-echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> /root/.bashrc
-echo 'eval "$(pyenv init -)"' >> /root/.bashrc
-echo 'eval "$(pyenv virtualenv-init -)"' >> /root/.bashrc
+echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.bashrc
+echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.bashrc
+echo 'eval "$(pyenv init -)"' >> ~/.bashrc
+echo 'eval "$(pyenv virtualenv-init -)"' >> ~/.bashrc
 ```
 ```bash
 source /root/.bashrc
